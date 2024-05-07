@@ -3,8 +3,8 @@
 I have analyzed Green Destinations' HR dashboard.
 "**Green Destinations**", a prominent travel agency, relies on its workforce to maintain its reputation and operations. To gain insights into its human resources landscape, an HR Analytics dashboard has been developed. This dashboard delves into critical metrics such as attrition rate, age distribution, income patterns, and tenure within the company. By examining these factors, we aim to uncover correlations and potential influencers on employee turnover.
 
-It examines the attrition rate, represented as the percentage of people who have left the company. Additionlly, it investigates whether factors such as age, years of company, and income influence employees' decisions to leave.
-Specifically, the dashboard presents data on Employee Count by age group, Average Monthly Income by age group, Employee Count by Income and Employee Count by Years Worked.
+It examines the attrition rate, represented as the percentage of people who have left the company. Additionally, it investigates whether factors such as age, years of company, and income influence employees' decisions to leave.
+Specifically, the dashboard presents data on Employee Count by age group, Average Monthly Income by age group, Employee Count by Income, and Employee Count by Years Worked.
 
 ### **Detailed explanation:**
 
@@ -26,4 +26,4 @@ C
 In summary, the HR Analytics dashboard for Green Destinations offers a comprehensive overview of critical HR metrics. By examining factors such as attrition rate, age distribution, income patterns, and tenure, HR professionals can gain valuable insights to optimize workforce management strategies and foster a thriving organizational culture. This data-driven approach empowers Green Destinations to make informed decisions that support employee satisfaction, retention, and ultimately, business success.
 
 
- - [My Public Tableau Account Link](https://public.tableau.com/views/Book1_17145536028900/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+ - [My Public Tableau Account Link for Green Destinations Project](https://public.tableau.com/views/Book1_17145536028900/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
